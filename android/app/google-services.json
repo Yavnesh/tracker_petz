@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643455477719",
+    "project_id": "trackerpetz",
+    "storage_bucket": "trackerpetz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643455477719:android:ebef916eb974e656648d92",
+        "android_client_info": {
+          "package_name": "com.example.tracker_kidz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643455477719-ss570rk6o5dh07o3ia70hudfuvupan4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJI00PtRjfRQLBmAWGpLQFBXsyA6Vs3d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643455477719-ss570rk6o5dh07o3ia70hudfuvupan4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
